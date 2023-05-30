@@ -29,3 +29,4 @@ cnd 프롬포터에 node -v 를 치면 버전이 나옴
 
   # setting 설정
   ![image](https://github.com/hyo0o0o/reactbasic/assets/129016961/9af223a3-5f8c-416b-96ce-199272543521)
+  ![image](https://github.com/hyo0o0o/reactbasic/assets/129016961/b9553799-0802-45a0-aa21-9e701d2eb5d0)
