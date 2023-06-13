@@ -4,5 +4,7 @@
 
     npm i react-router-dom
     
-    # setting 하는 방법
-    ![image](https://github.com/hyo0o0o/reactbasic/assets/129016961/f9e2b0a9-9313-4aea-a336-94347926f496)
+    
+    
+# index.js에 setting 하는 방법
+![image](https://github.com/hyo0o0o/reactbasic/assets/129016961/f9e2b0a9-9313-4aea-a336-94347926f496)
